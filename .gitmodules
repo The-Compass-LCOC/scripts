@@ -1,3 +1,6 @@
 [submodule "shopping-list"]
 	path = shopping-list
 	url = https://github.com/The-Compass-LCOC/scripts-shopping-list.git
+[submodule "donation-list"]
+	path = donation-list
+	url = https://github.com/The-Compass-LCOC/scripts-donation-list.git
