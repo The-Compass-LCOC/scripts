@@ -4,3 +4,6 @@
 [submodule "donation-list"]
 	path = donation-list
 	url = https://github.com/The-Compass-LCOC/scripts-donation-list.git
+[submodule "tracking-list"]
+	path = tracking-list
+	url = https://github.com/The-Compass-LCOC/tracking-list
